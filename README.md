@@ -1,4 +1,4 @@
-# 🎵 Spotify Song Recommendation System
+# Spotify Song Recommendation System
 
 A content-based music recommendation system built with Python and Streamlit. Enter any song and discover similar tracks based on audio features.
 
