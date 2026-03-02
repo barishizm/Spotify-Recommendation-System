@@ -8,7 +8,7 @@ A content-based music recommendation system built with Python and Streamlit. Ent
 
 ## 📸 Preview
 
-> Enter a song name, adjust your preferences, and get instant recommendations.
+> Enter a song name, adjust your preferences, get instant recommendations.
 
 ---
 
